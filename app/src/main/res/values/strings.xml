@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AirManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_check">检测已安装应用</string>
+    <string name="action_update">更新应用黑/白名单</string>
+</resources>
